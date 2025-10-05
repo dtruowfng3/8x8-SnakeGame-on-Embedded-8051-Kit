@@ -3,4 +3,4 @@
 A small embedded project implementing the **classic Snake Game** on an **AT89C51 microcontroller** with an **8x8 LED matrix**, programmed in **C** using **Keil µVision5**.
 
 ## 🎥 Demo
-[![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20Demo%20on%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/your-demo-link)
+[![Watch the video](https://img.youtube.com/vi/TZT1Bczkjqw/0.jpg)](https://www.youtube.com/watch?v=TZT1Bczkjqw)
