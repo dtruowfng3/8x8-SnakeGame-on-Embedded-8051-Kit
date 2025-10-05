@@ -1,0 +1,19 @@
+# Keil build outputs
+*.axf
+*.hex
+*.lst
+*.map
+*.obj
+*.o
+*.uvoptx
+*.uvprojx.bak
+Output/
+Debug/
+Release/
+
+#OS / IDE
+.vscode/
+Thumbs.db
+*.bak
+*.tmp
+
